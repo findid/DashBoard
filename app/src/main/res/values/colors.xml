@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="dash_red">#C23531</color>
+    <color name="dash_green">#46C5A8</color>
+    <color name="dash_yellow">#FFBC2F</color>
+</resources>
